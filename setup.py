@@ -5,5 +5,5 @@ setup(name='program',
     description='Program',
     url='',
     author='acro',
-    packages=['program'],
+    packages=['skyvault-infra-definitions'],
     zip_safe=False)
