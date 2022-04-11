@@ -1,1 +1,1 @@
-from main import program
+from .main import program

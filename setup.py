@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='gitpackagetest',
-    version='0.2',
+    version='0.3',
     description='Program',
     url='',
     author='acro',
