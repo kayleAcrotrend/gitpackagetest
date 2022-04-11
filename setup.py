@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup(name='program',
+setup(name='gitpackagetest',
     version='0.1',
     description='Program',
     url='',
